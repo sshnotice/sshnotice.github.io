@@ -5,18 +5,18 @@ gems:
   - jemoji
   
 # Site settings
-title: "Mediator"
+title: "BLUETOWN"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   17th street
 
-email: a-mail@mail.mail
+email: bluetown17@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "http://previews.123rf.com/images/rabbit75123/rabbit751231202/rabbit75123120200041/12272922-NEW-YORK-CITY-NY-DEC-30-Busy-traffic-on-street-on-December-30-2011-in-New-York-City-Fifth-Avenue-has-Stock-Photo.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'bluetown'
+author: 'bluetown'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
