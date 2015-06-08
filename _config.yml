@@ -27,9 +27,9 @@ baseurl: ""
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/BlueTown17
     desc: Follow me on twitter
-    share_url: http://twitter.com/share
+    share_url: http://twitter.com/BlueTown17
     share_title: ?text=
     share_link: "&amp;url="
 
@@ -41,7 +41,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/mngment
     desc:	Fork me on github
     share_url:
     share_title:
