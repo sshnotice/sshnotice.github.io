@@ -7,8 +7,8 @@ task :deploy do
   end
 
   puts "## Generating CNAME, README"
-  system "echo bluecarrot.net > #{public_dir}/CNAME"
-  system "echo bluecarrot.net Blog! > #{public_dir}/README"
+  system "echo inbluecarrot.net > #{public_dir}/CNAME"
+  system "echo inbluecarrot.net Blog! > #{public_dir}/README"
   puts "## Done!"
 
   Rake::Task[:copydot].invoke(source_dir, public_dir)
