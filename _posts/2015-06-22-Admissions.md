@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "신청서 양식"
+title:  "Admissions: 신청서 양식"
 date:   2015-06-22 12:02:25
 categories: mediator feature
 tags: 
