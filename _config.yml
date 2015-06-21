@@ -5,30 +5,30 @@ gems:
   - jemoji
   
 # Site settings
-title: "BLUETOWN"
+title: "Standish-Sterling High School"
 description: > # this means to ignore newlines until "email:"
-   17th street
+   TH1RTEEN R3ASONS WHY
 
-email: bluetown17@gmail.com
+email: sshnotice@gmail.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
-cover: "http://www.viewfrom5ft2.com/wp-content/uploads/2010/07/City-Street.jpg"
-name: 'bluetown'
-author: 'bluetown'
-author_image: "/assets/images/author.jpg"
+cover: "http://4.bp.blogspot.com/_cqi-yDToJ7A/TSu7zU87xzI/AAAAAAAAABI/1oDrbzZNEiY/s1600/University_of_Otago.jpg"
+name: 'SSH Notice'
+author: 'SSH Notice'
+author_image: "/assets/images/df_logo.jpg"
 
 paginate:	5
 
-url: "http://bluetown17.github.io"
+url: "http://sshnotice.github.io"
 baseurl: ""
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/BlueTown17
+    url:	https://twitter.com/Ssh_notice
     desc: Follow me on twitter
-    share_url: http://twitter.com/BlueTown17
+    share_url: http://twitter.com/Ssh_notice
     share_title: ?text=
     share_link: "&amp;url="
 
@@ -39,12 +39,6 @@ social:
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	github
-    url:	https://github.com/bluetown17
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
