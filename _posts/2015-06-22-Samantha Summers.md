@@ -4,7 +4,7 @@ title:  "Samantha Summers"
 date:   2015-06-22 12:06:25
 categories: mediator feature
 tags: featured
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image: "http://img4.uploadhouse.com/fileuploads/21268/2126819474fed5d2c9a1aedbd19cbe73c1660406.jpeg"
 ---
 
 ![img]("http://img4.uploadhouse.com/fileuploads/21268/2126819474fed5d2c9a1aedbd19cbe73c1660406.jpeg")
