@@ -4,8 +4,11 @@ title:  "Admissions: 신청서 양식"
 date:   2015-06-22 12:02:25
 categories: mediator feature
 tags: 
-image: /assets/article_images/2014-11-30-mediator_features/night-track.JPG
+image: "http://joinus4education.com/OccasionGallery/tn_080133.jpg"
 ---
+
+
+
 
 *(괄호 안의 내용은 모두 지우고 작성하여 주세요!)*
 
