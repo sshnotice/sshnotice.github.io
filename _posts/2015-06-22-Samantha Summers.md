@@ -7,6 +7,8 @@ tags: featured
 image: "http://img4.uploadhouse.com/fileuploads/21268/2126819474fed5d2c9a1aedbd19cbe73c1660406.jpeg"
 ---
 
+
+---
 이름: Samantha Summers
 ---
 나이: 17세
