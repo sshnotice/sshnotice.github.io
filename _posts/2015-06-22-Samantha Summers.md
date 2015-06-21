@@ -3,7 +3,7 @@ layout: post
 title:  "Samantha Summers"
 date:   2015-06-22 12:06:25
 categories: mediator feature
-tags: featured
+tags: 
 image: "http://img4.uploadhouse.com/fileuploads/21268/2126819474fed5d2c9a1aedbd19cbe73c1660406.jpeg"
 ---
 
