@@ -8,7 +8,7 @@ image: "http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef0148c7a54c45970c-pi
 permalink: /Brunelle/
 ---
 
-![img](?ui=2&ik=3e1e3489e6&view=fimg&th=14e41476c2a952d0&attid=0.1.1&disp=emb&attbid=ANGjdJ_Ef4OSpKySOhJuAHsNVRRMm3DGSRTGZ892w2j7sFqipDYi-Tqe_aW6j_DtXNvNfm1dRje02HpEop0wPXQQ7nKxWxy3H91yqkh9mJzfzZI4LQIX37aLxrMIO8E&sz=s0-l75-ft&ats=1435946484408&rm=14e41476c2a952d0&zw&atsh=1)
+![img](https://pbs.twimg.com/media/CJAiwVpUcAAtJGZ.jpg)
 
 
 이름: 브루넬 라파브레 (Brunelle Lefebvre)
