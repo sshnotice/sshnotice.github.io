@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Samantha Summers: MPC"
+title:  "Samantha Summers"
 date:   2015-06-22 12:06:25
 categories: mediator feature
 tags: 
