@@ -5,7 +5,7 @@ date:   2015-06-22 12:24:25
 categories: mediator feature
 tags: 
 image: "http://latimesblogs.latimes.com/.a/6a00d8341c630a53ef0148c7a54c45970c-pi"
-permalink: /Brunelle/
+permalink: /Brunelle
 ---
 
 ![img](https://pbs.twimg.com/media/CJAiwVpUcAAtJGZ.jpg)
