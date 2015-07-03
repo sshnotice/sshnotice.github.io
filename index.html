@@ -33,13 +33,16 @@ layout: default
     {% if site.tags.featured %}
     <h5 class="index-headline featured"><span>Featured</span></h5>
     
-    ![img](http://img4.uploadhouse.com/fileuploads/21268/2126819474fed5d2c9a1aedbd19cbe73c1660406.jpeg)
+  
 
     <div class="container featured">
       {% for post in site.tags.featured %}
         <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
           <div class="article-item">
             <header class="post-header">
+                
+                  ![img](http://img4.uploadhouse.com/fileuploads/21268/2126819474fed5d2c9a1aedbd19cbe73c1660406.jpeg)
+                  
               <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
